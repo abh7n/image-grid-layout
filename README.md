@@ -17,3 +17,7 @@ A responsive and customizable image grid layout built using HTML and CSS.
 - Mozilla Firefox
 - Microsoft Edge
 
+
+*Version History*
+
+- v1.0.0 - Initial release
