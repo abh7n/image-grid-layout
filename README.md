@@ -15,6 +15,5 @@ A responsive and customizable image grid layout built using HTML and CSS.
 
 - Google Chrome
 - Mozilla Firefox
-- Safari
 - Microsoft Edge
 
