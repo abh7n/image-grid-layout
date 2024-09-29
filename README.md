@@ -1,5 +1,8 @@
 # Image Grid Layout
 
+![Image description](image-grid-layout.png)
+
+
 A responsive and customizable image grid layout built using HTML and CSS.
 
 
